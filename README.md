@@ -22,7 +22,7 @@ A self-hosted cloud storage system inspired by Amazon S3 architecture, designed 
 ##  How to Run
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/cloud-storage-system
+  
 
 2. Navigate to project folder:
    cd cloud-storage-system
@@ -31,7 +31,7 @@ A self-hosted cloud storage system inspired by Amazon S3 architecture, designed 
    (mention if any)
 
 4. Run the application:
-   (example: python app.py / node app.js)
+ 
 
 ##  How It Works
 - Files are stored inside logical “buckets”
